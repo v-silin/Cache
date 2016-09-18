@@ -1,3 +1,3 @@
-github "krzyzanowskim/CryptoSwift" "3a0c3153717070a42971c30cd73d67f6f832f4bc"
-github "Quick/Nimble" "v4.0.1"
-github "Quick/Quick" "v0.9.2"
+github "sumolari/CryptoSwift" "fcc2d6b38e4fcd601b08d71eb2eb24d16fce34d0"
+github "Quick/Nimble" "v4.1.0"
+github "Quick/Quick" "v0.9.3"
